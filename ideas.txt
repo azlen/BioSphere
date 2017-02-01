@@ -23,15 +23,19 @@ U. Uncategorized
 	:: Diplomatic
 	:: Quiet, reserved general populace
 	:: Rumours thrive here, underground groups spread information quickly
-	:: Spys, always know what's happening in other cities
+	:: Spies, always know what's happening in other cities
 	:: Main exporters of candles (earwax :P)
+	:: Some of the greatest blacksmiths around
+	:: Piercing weapons! rapiers and such
 	(1) == Locations
 	- Malleus (city)
 	- Stapes (city)
+	- Blainville (town) <- Blainville Ears
 	- Bony Labyrinth / Osseus Labyrinth
 	- Membranous Labyrinth :: inside the Bony Labyrinth
 	- Vestibular Aqueduct
 	- Ear Canal
+	- Tympanic Cave <- Tympanic Cavity
 	(2) == Creatures & Inhabitants
 	- Auricle :: Oracle
 	- King Tinnitus <- Tinnitus
@@ -40,6 +44,12 @@ U. Uncategorized
 	(3) == Items & Equipment
 	- Ear Drum
 	- Ear Wax
+	- Hammer
+	- Anvil
+	- Stirrup
+	- Pinna Colada :: Pina Colada
+	- Pinnata :: Pinata
+	-
 	(?) == Organizations & Groups
 	- Ottis Media
 -
@@ -51,6 +61,7 @@ U. Uncategorized
 - Islets of Langerhans
 - Crypts of Lieberkühn
 - Sylvian Aqueduct
+- Island of Reil
 
 - Dorsal Cave <- Dorsal Cavity
 - Cranial Cave <- Cranial Cavity
@@ -83,4 +94,4 @@ U. Uncategorized
 - Ampulla of Vater
 	:: "small nearly globular flask or bottle, with two handles"
 - Adam's Apple
--
+- Myelin Sheath
