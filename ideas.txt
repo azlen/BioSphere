@@ -1,0 +1,86 @@
+BioSphere Game Ideas
+
+Table of Contents
+P. Naming Conventions & Notes
+U. Uncategorized
+1. Locations
+2. Creatures & Inhabitants
+3. Items & Equipment
+
+(P) === Naming Conventions & Notes
+
+- X -> Y transforms X to Y, X being anatomical term and Y being the "fixed" version
+- X :: Y relates X to Y, Y being a example of what X would be/function as in the game
+- * notes future name change, usually to replace common anatomical terms
+
+- Cavity -> Cave
+	e.g., Ventral Cavity -> Ventral Cave
+
+(U) === Uncategorized
+
+- Incus Empire (Ear)
+	:: Musical, with focus on drums
+	:: Diplomatic
+	:: Quiet, reserved general populace
+	:: Rumours thrive here, underground groups spread information quickly
+	:: Spys, always know what's happening in other cities
+	:: Main exporters of candles (earwax :P)
+	(1) == Locations
+	- Malleus (city)
+	- Stapes (city)
+	- Bony Labyrinth / Osseus Labyrinth
+	- Membranous Labyrinth :: inside the Bony Labyrinth
+	- Vestibular Aqueduct
+	- Ear Canal
+	(2) == Creatures & Inhabitants
+	- Auricle :: Oracle
+	- King Tinnitus <- Tinnitus
+	- Ear Mites
+	-
+	(3) == Items & Equipment
+	- Ear Drum
+	- Ear Wax
+	(?) == Organizations & Groups
+	- Ottis Media
+-
+
+(1) === Locations
+
+- Nether Regions
+
+- Islets of Langerhans
+- Crypts of Lieberkühn
+- Sylvian Aqueduct
+
+- Dorsal Cave <- Dorsal Cavity
+- Cranial Cave <- Cranial Cavity
+- Ventral Cave <- Ventral Cavity
+- Thoracic Cave <- Thoracic Cavity
+- Pleural Cave <- Pleural Cavity
+- Pericardinal Cave <- Pericardinal Cavity
+- Abdominopelvic Cave <- Abdominopelvic Cavity
+- Abdominal Cave <- Abdominal Cavity
+- Peritoneal Cave <- Peritoneal Cavity
+- Pelvic Cave <- Pelvic Cavity
+
+- Alcock's Canal
+- Cloquet's Canal
+- Dorello's Canal
+- Haversian Canal
+- Canals of Hering
+- Canal of Huguier
+- Canal of Schlemm
+- Stilling's Canal
+
+
+(2) === Creatures & Inhabitants
+
+- Fungiform
+
+(3) === Items & Equipment
+
+- Golgi Apparatus
+- Ampulla of Vater
+	:: "small nearly globular flask or bottle, with two handles"
+- Adam's Apple
+-
